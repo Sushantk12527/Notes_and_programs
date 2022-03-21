@@ -1,7 +1,7 @@
 
 # Notes And Programs
 
-This Porject is all about the learnings of different Concepts and snippets from the Programs and the Links to them.
+This Project is all about Concepts and snippets from the Programs and the Links to them.
 
 
 
